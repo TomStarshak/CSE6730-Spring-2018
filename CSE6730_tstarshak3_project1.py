@@ -2,7 +2,6 @@
 """
 CSE 6730: Modeling and Simulation
 Spring 2018
-Tom Starshak
 Project 1
 """
 

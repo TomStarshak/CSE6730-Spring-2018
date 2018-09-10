@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 CSE 6730: Modeling and Simulation
-Spring 2018
 Project 1
 """
 

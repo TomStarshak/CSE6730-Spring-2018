@@ -9,7 +9,7 @@ import numpy as np
 #constants:
 mean_arrival_time = 15
 closing_time = 480
-mean_party_size = 4
+mean_party_size = 2
 sd_party_size = 2
 min_party_size = 1
 min_cook_time = 15
